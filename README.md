@@ -11,7 +11,8 @@ Link to the webpage:
 
 ## Usage
 
-Here is a video of the application: [SVG logo generator demo](<../../Downloads/SVG logo generator demo video.webm>)
+Here is a video of the application: [SVG logo generator demo video.webm](https://github.com/AlyssaPidgeon/Logo-generator-application/assets/133649814/0168c11a-9207-44a7-9b0b-270992f19b53)
+
 
 ## License
 
